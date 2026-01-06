@@ -97,8 +97,8 @@ if (contactForm) {
     e.preventDefault();
 
     emailjs.sendForm(
-      "service_u35uj4h", //service id of emailjs website
-      "template_vpcdryc", // templete id of emailjs website
+      "service_u35uj4h", 
+      "template_vpcdryc", 
       this
     )
     .then(() => {
