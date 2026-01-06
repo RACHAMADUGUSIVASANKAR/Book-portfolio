@@ -70,6 +70,8 @@ The **Download CV** button allows users to download my resume directly as a PDF.
 
 https://rachamadugusivasankar.github.io/Book-portfolio/#
 
+<img width="1217" height="840" alt="image" src="https://github.com/user-attachments/assets/324d73bb-1f53-4b87-b792-bfe22887c37c" />
+
 ---
 
 ## 📦 How to Run Locally
