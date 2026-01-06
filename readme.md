@@ -1,11 +1,3 @@
-Awesome work, siva 👏
-Based on **this full chat + your actual HTML, CSS, JS features**, here is a **clean, professional README.md** you can directly use in your GitHub repo.
-
-You can **copy–paste this as `README.md`** 👇
-
----
-
-```md
 # 📘 Book-Style Portfolio Website
 
 A creative **book-style personal portfolio website** built using **HTML, CSS, and JavaScript only**.  
